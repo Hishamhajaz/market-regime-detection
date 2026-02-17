@@ -10,4 +10,3 @@ KMeans clustering detects **Bull/Bear/Sideways** regimes in SPY (2000-2026)
 - **Sideways (Gray):** 55% - Low volatility + flat returns
 - **Bull (Green):** 31% - Low volatility + positive returns
 
-## 🏆 Performance
